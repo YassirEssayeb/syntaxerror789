@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=syntaxerror978&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=syntaxerror789&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/syntaxerror978">
+  <a href="https://github.com/syntaxerror789">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Node.js;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG"/>
   </a>
 </p>
@@ -13,7 +13,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" /> About Me
 
 ```yaml
-name: syntaxerror978
+name: syntaxerror789
 location: Morocco
 role: Full-Stack Developer
 languages:
@@ -63,10 +63,10 @@ I'm a passionate full-stack developer who loves building modern web applications
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syntaxerror978&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxerror978&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syntaxerror789&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxerror789&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntaxerror978&theme=github-dark-blue&hide_border=true&background=0d1117" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntaxerror789&theme=github-dark-blue&hide_border=true&background=0d1117" width="70%" />
 </div>
 
 ---
@@ -78,7 +78,7 @@ I'm a passionate full-stack developer who loves building modern web applications
     <td width="50%">
       <h3 align="center">Currency Converter</h3>
       <p align="center">
-        <a href="https://github.com/syntaxerror978/currency" target="_blank">
+        <a href="https://github.com/syntaxerror789/currency" target="_blank">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Live+exchange+rates" alt="currency"/>
         </a>
       </p>
@@ -93,7 +93,7 @@ I'm a passionate full-stack developer who loves building modern web applications
     <td width="50%">
       <h3 align="center">Peer-to-Peer Rental Marketplace</h3>
       <p align="center">
-        <a href="https://github.com/syntaxerror978/platform-rental" target="_blank">
+        <a href="https://github.com/syntaxerror789/platform-rental" target="_blank">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Rent+anything+anywhere" alt="rental"/>
         </a>
       </p>
@@ -111,7 +111,7 @@ I'm a passionate full-stack developer who loves building modern web applications
     <td width="50%">
       <h3 align="center">Classified Ads Marketplace</h3>
       <p align="center">
-        <a href="https://github.com/syntaxerror978/marketplace-annonces" target="_blank">
+        <a href="https://github.com/syntaxerror789/marketplace-annonces" target="_blank">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Buy+and+sell+locally" alt="marketplace"/>
         </a>
       </p>
@@ -127,7 +127,7 @@ I'm a passionate full-stack developer who loves building modern web applications
     <td width="50%">
       <h3 align="center">URL Shortener with Stats</h3>
       <p align="center">
-        <a href="https://github.com/syntaxerror978/url-shortener" target="_blank">
+        <a href="https://github.com/syntaxerror789/url-shortener" target="_blank">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Shorten+and+track+links" alt="url-shortener"/>
         </a>
       </p>
@@ -161,13 +161,13 @@ I'm a passionate full-stack developer who loves building modern web applications
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/syntaxerror978">
+  <a href="https://linkedin.com/in/syntaxerror789">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/syntaxerror978">
+  <a href="https://twitter.com/syntaxerror789">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://dev.to/syntaxerror978">
+  <a href="https://dev.to/syntaxerror789">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://portfolio.example.com">
@@ -193,7 +193,7 @@ I'm a passionate full-stack developer who loves building modern web applications
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/syntaxerror978">
+  <a href="https://www.buymeacoffee.com/syntaxerror789">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
@@ -201,8 +201,8 @@ I'm a passionate full-stack developer who loves building modern web applications
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=syntaxerror978&style=flat-square&color=58a6ff" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/syntaxerror978?style=flat-square&color=58a6ff" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=syntaxerror789&style=flat-square&color=58a6ff" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/syntaxerror789?style=flat-square&color=58a6ff" alt="Followers"/>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,1:0d1117&height=100&section=footer" width="100%"/>
 </div>
