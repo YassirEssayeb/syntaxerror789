@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=syntaxerror789&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Yassir%20Essayeb&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/syntaxerror789">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Node.js;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG"/>
+  <a href="https://github.com/YassirEssayeb">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Node.js;PHP+%7C+TypeScript+%7C+MySQL;Open+Source+Enthusiast" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" /> About Me
 
 ```yaml
-name: syntaxerror789
+name: Yassir Essayeb
 location: Morocco
 role: Full-Stack Developer
 languages:
@@ -63,10 +63,10 @@ I'm a passionate full-stack developer who loves building modern web applications
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syntaxerror789&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxerror789&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassirEssayeb&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassirEssayeb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syntaxerror789&theme=github-dark-blue&hide_border=true&background=0d1117" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassirEssayeb&theme=github-dark-blue&hide_border=true&background=0d1117" width="70%" />
 </div>
 
 ---
@@ -76,68 +76,35 @@ I'm a passionate full-stack developer who loves building modern web applications
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Currency Converter</h3>
+      <h3 align="center">Luxe Burger</h3>
       <p align="center">
-        <a href="https://github.com/syntaxerror789/currency" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Live+exchange+rates" alt="currency"/>
+        <a href="https://github.com/YassirEssayeb/Food" target="_blank">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=A+restaurant,+in+3D" alt="luxe-burger"/>
         </a>
       </p>
       <p align="center">
-        A real-time currency converter with Chart.js visualization, 7-day trends, and multi-language support (EN/ES/AR). Pure JS, no build step.
+        Full-featured restaurant website with an interactive 3D burger scene, online ordering, table reservations, customer reviews, and a complete admin dashboard. Built with Laravel and Three.js.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">FX Exchange</h3>
+      <p align="center">
+        <a href="https://github.com/YassirEssayeb/currency" target="_blank">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Live+exchange+rates" alt="fx-exchange"/>
+        </a>
+      </p>
+      <p align="center">
+        Real-time currency converter with interactive 7-day rate charts, live data from the Frankfurter API, dark/light themes, and full EN/ES/AR localization. Pure JavaScript, no build step.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Peer-to-Peer Rental Marketplace</h3>
-      <p align="center">
-        <a href="https://github.com/syntaxerror789/platform-rental" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Rent+anything+anywhere" alt="rental"/>
-        </a>
-      </p>
-      <p align="center">
-        Full-stack rental platform built with Next.js 16, TypeScript, Socket.IO for real-time messaging, and MySQL.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Classified Ads Marketplace</h3>
-      <p align="center">
-        <a href="https://github.com/syntaxerror789/marketplace-annonces" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Buy+and+sell+locally" alt="marketplace"/>
-        </a>
-      </p>
-      <p align="center">
-        Full-featured classifieds app with Express.js backend, React 19 frontend, image uploads via Cloudinary, and JWT auth.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">URL Shortener with Stats</h3>
-      <p align="center">
-        <a href="https://github.com/syntaxerror789/url-shortener" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Shorten+and+track+links" alt="url-shortener"/>
-        </a>
-      </p>
-      <p align="center">
-        URL shortening service with click analytics, built with Express.js backend and React + Recharts frontend.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=recharts&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -157,21 +124,10 @@ I'm a passionate full-stack developer who loves building modern web applications
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30" /> Connect With Me
 
+<!-- ✏️ Replace `your-email@example.com` below with your real email address -->
 <p align="center">
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/syntaxerror789">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/syntaxerror789">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/syntaxerror789">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
@@ -180,29 +136,15 @@ I'm a passionate full-stack developer who loves building modern web applications
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Currently Working On
 
 - 🔭 Building modern full-stack applications with Laravel & React
-- 🌱 Deep diving into Next.js 16 and TypeScript
+- 🌱 Deep diving into Next.js and TypeScript
 - 👯 Looking to collaborate on open-source PHP/JS projects
 - ⚡ Fun fact: I enjoy game development in my spare time
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="30" /> Support
-
-<p align="center">
-  If you like my work, consider buying me a coffee!
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/syntaxerror789">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=syntaxerror789&style=flat-square&color=58a6ff" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/syntaxerror789?style=flat-square&color=58a6ff" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=YassirEssayeb&style=flat-square&color=58a6ff" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/YassirEssayeb?style=flat-square&color=58a6ff" alt="Followers"/>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,1:0d1117&height=100&section=footer" width="100%"/>
 </div>
