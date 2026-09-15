@@ -76,20 +76,20 @@ I'm a passionate full-stack developer who loves building modern web applications
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Luxe Burger</h3>
+      <h3 align="center">Clothify</h3>
       <p align="center">
-        <a href="https://github.com/YassirEssayeb/Food" target="_blank">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=A+restaurant,+in+3D" alt="luxe-burger"/>
+        <a href="https://github.com/YassirEssayeb/clothify" target="_blank">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=58A6FF&center=true&vCenter=true&width=200&height=30&lines=Shop+modern+fashion" alt="clothify"/>
         </a>
       </p>
       <p align="center">
-        Full-featured restaurant website with an interactive 3D burger scene, online ordering, table reservations, customer reviews, and a complete admin dashboard. Built with Laravel and Three.js.
+        Modern clothing store with a vanilla JavaScript storefront and a Node.js/Express REST API backed by SQLite. Product catalog, cart & wishlist, auth with email verification and Google OAuth, coupon codes, and a full admin dashboard.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
       </p>
     </td>
     <td width="50%">
